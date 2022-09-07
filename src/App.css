@@ -1,0 +1,22 @@
+h1 {
+  color: white;
+  display: inline;
+}
+a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
+#hd {
+  background-color: #07070A;
+}
+#logo{
+  background-color: #07070A;
+  text-align: center;
+}
+#carro{
+  width: 2%;
+}
+#divCarro{
+  display: inline;
+}
